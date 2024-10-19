@@ -13,6 +13,7 @@ Todo o design, estruturação e funcionalidades foram codificados manualmente pa
 
 Link para a página: https://lucas-oliveirah17.github.io/Projeto-Final-Front-End/
 
+##################################################
 
 English Version:
 Final Project - Front-End Development (GRUDSFR)
